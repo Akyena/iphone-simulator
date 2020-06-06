@@ -21,3 +21,7 @@ The call interface should display the contact’s name, phone number, profile pi
 + When the end call button is pressed, the call log interface should be displayed. 
 
 **Hint: Use SQLite for Contacts, Call logs, etc.**
+
+
+## NOTE: 
+* Import Datechooser.jar & sqlite-jdbc-3-30-1.jar to project path ( build path by adding the .jar files as extended libraries)*
